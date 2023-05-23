@@ -3,10 +3,12 @@ import Courosel from "../components/Courosel";
 import Header from "../components/Header";
 
 function Home() {
+  const paragraphStyle = {
+    textAlign: 'justify',
+  };
   return (
     <div>
       <Header />
-
       <div
         className="introduction flex-with-center"
         style={{ backgroundImage: `url('./introbg.svg')` }}
@@ -16,10 +18,10 @@ function Home() {
 
           <div className="intro-content d-flex justify-content-center flex-column align-items-center">
             <p style={{ textAlign: "center" }}>
-              MERN Stack Developer || ML Enthusiast
+              MERN STACK DEVELOPER || MACHINE LEARNING ENTHUSIAST
             </p>
             <button className="primary-button font-bold">
-              <a href="#courosel">Get Started</a>
+              <a href="#courosel">GET STARTED</a>
             </button>
           </div>
         </div>
@@ -65,7 +67,7 @@ function Home() {
         <div className="row pt-5 justify-content-end">
           <div className="col-md-4">
             <div className="n-box2 p-5 font-bold" data-aos="fade-left">
-              <p>
+            <p style={paragraphStyle}>
                 MERN development refers to a full-stack web development approach
                 that leverages four key technologies: MongoDB, Express, React,
                 and Node. MERN development is highly demanded due to the stack's

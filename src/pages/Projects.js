@@ -8,6 +8,9 @@ function navigateToLink(link) {
 }
 
 function Projects() {
+  const paragraphStyle = {
+    textAlign: 'justify',
+  };
   return (
 <div>
   <Header />
@@ -18,7 +21,7 @@ function Projects() {
         data-aos="fade-down"
       >
         <div>
-          <h1 className="font-bold">Projects</h1>
+          <h1 className="font-bold">MY PROJECTS</h1>
           <p className="font-bold">
             Working ability defines in the implementation. The
             implementation of a good project needs practice with courageous
@@ -26,7 +29,7 @@ function Projects() {
           </p>
           <button className="primary-button projects-btn">
             <a href="#projects-list" className="white">
-              Get Started
+              GET STARTED
             </a>
           </button>
         </div>
@@ -55,7 +58,7 @@ function Projects() {
 
       <div className="container projects-list" id="projects-list">
         <h3 className="font-bold" style={{ color: "white" }}>
-          Take a look at my projects
+        TAKE A LOOK AT MY PROJECTS
         </h3>
         <hr />
 
@@ -68,7 +71,7 @@ function Projects() {
                   <div className="project-content">
                     <h4>{project.title}</h4>
                     <hr />
-                    <p>{project.description}</p>
+                    <p style={paragraphStyle}>{project.description}</p>
                     <button
                       className="primary-button"
                       onClick={() => navigateToLink(project.link)}

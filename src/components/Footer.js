@@ -16,7 +16,7 @@ function Footer() {
         <div className="row justify-content-center footer-content">
           <div className="col-md-6">
             <div className="div">
-              <p>Designed and Developed By</p>
+              <p>DESIGNED & DEVELOPED BY</p>
               <hr />
               <div className="d-flex justify-content-between px-2">
                 <FaFacebook
@@ -58,7 +58,7 @@ function Footer() {
 
               <br />
 
-              <p>Ovi Sarkar</p>
+              <p>OVI SARKAR</p>
             </div>
           </div>
         </div>

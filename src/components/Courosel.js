@@ -14,7 +14,7 @@ function Courosel() {
     <div>
       <div className="courosel-parent position-relative" id="courosel">
         <h1 className="position-absolute top-0 start-0 end-0 text-center mt-5">
-          Acquired Technologies
+          ACQUIRED TECHNOLOGIES
         </h1>
 
         <div className="gallery">

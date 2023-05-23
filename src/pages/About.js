@@ -3,7 +3,6 @@ import React from "react";
 import Header from "../components/Header";
 
 function About() {
-  // Function to handle the download button click
   const handleDownload = () => {
     const link =
       "https://drive.google.com/file/d/1HJuTtdaaYFZUSjCpAVEFS48jGg0DMIHA/view?usp=share_link";
@@ -19,7 +18,7 @@ function About() {
             <div className="col-md-6">
               <div className="contact-form m-2 p-5 n-box2">
                 <h3 className="font-bold" style={{ textAlign: "center" }}>
-                  About Me
+                  ABOUT ME
                 </h3>
                 <hr />
                 <div className="card" style={{ backgroundColor: "black" }}>
@@ -27,7 +26,7 @@ function About() {
                     <p
                       style={{
                         color: "white",
-                        fontFamily: "Arial, sans-serif",
+                        fontFamily: "Ubuntu, sans-serif",
                         fontSize: "16px",
                         lineHeight: "1.5",
                       }}
@@ -36,7 +35,6 @@ function About() {
                       Department: Electrical & Computer Engineering <br />
                       University: Rajshahi University of Engineering &
                       Technology <br />
-                      From: Dhaka, Bangladesh <br />
                       Email: ovisarkareceian@gmail.com <br />
                       LinkedIn:{" "}
                       <a
@@ -58,7 +56,7 @@ function About() {
                         https://github.com/OviSarkar62
                       </a>{" "}
                       <br />
-                      Contact: +8801827602947
+                      Contact: +8801827602947 <br/>
                     </p>
                   </div>
                   <div
@@ -66,7 +64,7 @@ function About() {
                     style={{ backgroundColor: "black" }}
                   >
                     <button className="primary-button" onClick={handleDownload}>
-                      Resume
+                      RESUME
                     </button>
                   </div>
                 </div>

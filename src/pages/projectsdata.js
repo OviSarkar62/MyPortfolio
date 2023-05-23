@@ -26,21 +26,7 @@ const projectsdata = [
       description:
         "A MERN stack web application designed to allow users to create and manage their accounts, add, edit, delete & view their expenses in pie-chart.",
       link: "https://expense-tracker-ten-zeta.vercel.app/login",
-    },
-    /*{
-      title: "SHEYGRAM",
-      image: "./socialmedia.svg",
-      description:
-        "An ecommerce application developed using react , node , redux and mongodb",
-      link: "/",
-    },
-    {
-      title: "SHEYCARS",
-      image: "./cars.svg",
-      description:
-        "An ecommerce application developed using react , node , redux and mongodb",
-      link: "/",
-    },*/
+    }
   ];
 
   export default projectsdata

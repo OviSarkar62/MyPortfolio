@@ -7,6 +7,9 @@ function navigateToLink(link) {
 }
 
 function Courses() {
+  const paragraphStyle = {
+    textAlign: 'center',
+  };
   return (
     <div>
       <Header />
@@ -15,16 +18,16 @@ function Courses() {
         style={{ backgroundImage: `url('./courses.svg')` }}
       >
         <div className="courses-intro-content">
-          <h1>My Learned Courses</h1>
+          <h1>MY LEARNED COURSES</h1>
           <div>
-            <p>
+            <p style={paragraphStyle}>
               “I don't know everything but I tried to learn many tech things
               which a Computer Science graduate should know. The best I have
               done is practicing them by doing projects to find what I really
               get passionate about.”
             </p>
             <div className="button-container">
-              <button className="primary-button">
+              <button className="primary-button" style={{ width: '45%' }}>
                 <a href="#courses-list">GET STARTED</a>
               </button>
             </div>
@@ -35,7 +38,7 @@ function Courses() {
       <div className="container courses-list mb-5" id="courses-list">
         <hr />
         <h3 className="font-bold" style={{ color: "white" }}>
-          Take a look at my learned courses
+          TAKE A LOOK AT MY COURSES
         </h3>
 
         <div className="row mt-5">
@@ -44,7 +47,7 @@ function Courses() {
               <div className="position-relative course">
                 <img src={course.image} alt="" className="w-100" />
                 <div className="course-content w-100">
-                  <h4>{course.title}</h4>
+                  <h5 style={paragraphStyle}>{course.title}</h5>
                   <hr />
                   <p>{course.description}</p>
                   <button
