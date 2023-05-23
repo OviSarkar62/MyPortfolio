@@ -1,12 +1,12 @@
 const courseslist = [
     {
       title: "Python Programming for Beginners in Data Science",
-      image:"/python1-vec.svg",
+      image:"/py1-vec.svg",
       link: "https://www.udemy.com/certificate/UC-24beef81-f756-4f38-b6c8-8bb509e7839c/",
     },
     {
       title: "Python Programming & Software Design For Absolute Beginners",
-      image:"/python2-vec.svg",
+      image:"/py2-vec.svg",
       link: "https://www.udemy.com/certificate/UC-9340ddcc-4efc-4270-b90e-5c8a51f54284/",
     },
     {
