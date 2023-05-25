@@ -9,7 +9,7 @@ MyPortfolio is a personal portfolio website that showcases skills, projects, and
 - Skills and Expertise: Display your skills and expertise in a dedicated section. This allows visitors to quickly identify your key areas of knowledge and competence.
 - Experience and Education: Present your work experience, internships, or educational background to give visitors insight into your professional journey.
 Contact Information: Include your contact details so that interested parties can easily reach out to you for opportunities or inquiries.
-
+- Contact Information: Include your contact details so that interested parties can easily reach out to you for opportunities or inquiries.
 ## Installation
 
 To install and set up MyPortfolio on your local machine, follow these steps:
@@ -37,11 +37,11 @@ To install and set up MyPortfolio on your local machine, follow these steps:
 
 Once you have installed MyPortfolio, you can start customizing it to fit your needs. Here are a few guidelines:
 
-Customization: Open the src/pages/projectsdata.js file and modify the content according to your completed project preferences. You can add or remove projects, modify, and adjust the sections as required. Also open the src/pages/coursesdata.js file and modify the content according to your accomplished courses.
+- Customization: Open the src/pages/projectsdata.js file and modify the content according to your completed project preferences. You can add or remove projects, modify, and adjust the sections as required. Also open the src/pages/coursesdata.js file and modify the content according to your accomplished courses.
 
-Styling: The project uses CSS stylesheets located in the src/stylesheets directory. You can modify these stylesheets or create your own to personalize the visual appearance of your portfolio.
+- Styling: The project uses CSS stylesheets located in the src/stylesheets directory. You can modify these stylesheets or create your own to personalize the visual appearance of your portfolio.
 
-Images: Replace the SVG images in the public directory with your own images. Ensure that the image file names and references in the files are correctly updated.
+- Images: Replace the SVG images in the public directory with your own images. Ensure that the image file names and references in the files are correctly updated.
 
 ## Stack
 
