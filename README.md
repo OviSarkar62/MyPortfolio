@@ -33,5 +33,15 @@ To install and set up MyPortfolio on your local machine, follow these steps:
        npm start
 - Access the application. Open your web browser and visit http://localhost:3000 to access the application.
 
+## Usage
+
+Once you have installed MyPortfolio, you can start customizing it to fit your needs. Here are a few guidelines:
+
+Customization: Open the src/pages/projectsdata.js file and modify the content according to your completed project preferences. You can add or remove projects, modify, and adjust the sections as required. Also open the src/pages/coursesdata.js file and modify the content according to your accomplished courses.
+
+Styling: The project uses CSS stylesheets located in the src/stylesheets directory. You can modify these stylesheets or create your own to personalize the visual appearance of your portfolio.
+
+Images: Replace the SVG images in the public directory with your own images. Ensure that the image file names and references in the files are correctly updated.
+
 ## Live Link
 [Myportfolio](https://myself-ovi.vercel.app/)
