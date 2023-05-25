@@ -15,7 +15,7 @@ Contact Information: Include your contact details so that interested parties can
 To install and set up MyPortfolio on your local machine, follow these steps:
 - Clone the repository using the following command:
             
-         git clone https://github.com/OviSarkar62/MyPortfolio.git
+       git clone https://github.com/OviSarkar62/MyPortfolio.git
 
 
 ## Live Link
