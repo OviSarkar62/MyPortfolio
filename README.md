@@ -25,5 +25,9 @@ To install and set up MyPortfolio on your local machine, follow these steps:
 
        npm install react-router-dom react-icons aos animate.css
 
+- Customize the portfolio content
+- Start the client application
+       
+       npm start
 ## Live Link
 [Myportfolio](https://myself-ovi.vercel.app/)
