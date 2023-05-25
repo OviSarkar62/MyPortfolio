@@ -10,5 +10,12 @@ MyPortfolio is a personal portfolio website that showcases skills, projects, and
 - Experience and Education: Present your work experience, internships, or educational background to give visitors insight into your professional journey.
 Contact Information: Include your contact details so that interested parties can easily reach out to you for opportunities or inquiries.
 
+## Installation
+
+To install and set up MyPortfolio on your local machine, follow these steps:
+- Clone the repository using the following command:
+            git clone https://github.com/OviSarkar62/MyPortfolio.git
+
+
 ## Live Link
 [Myportfolio](https://myself-ovi.vercel.app/)
