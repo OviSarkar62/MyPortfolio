@@ -43,5 +43,13 @@ Styling: The project uses CSS stylesheets located in the src/stylesheets directo
 
 Images: Replace the SVG images in the public directory with your own images. Ensure that the image file names and references in the files are correctly updated.
 
+## Stack
+
+MyPortfolio is built using the following technologies and frameworks:
+- HTML5
+- CSS3
+- JavaScript
+- React
+
 ## Live Link
 [Myportfolio](https://myself-ovi.vercel.app/)
