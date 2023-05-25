@@ -26,8 +26,8 @@ To install and set up MyPortfolio on your local machine, follow these steps:
        npm install react-router-dom react-icons aos animate.css
 
 - Customize the portfolio content:
-- - Open the src/pages/projectsdata.js file and update the provided template with your own information.
-- - Open the src/pages/coursesdata.js file and update the provided template with your own information.
+  - Open the src/pages/projectsdata.js file and update the provided template with your own information.
+  - Open the src/pages/coursesdata.js file and update the provided template with your own information.
 - Start the client application
        
        npm start
