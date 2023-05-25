@@ -53,4 +53,4 @@ MyPortfolio is built using the following technologies and frameworks:
 
 These technologies were chosen for their versatility, ease of use, and popularity within the web development community. The combination of HTML, CSS, and JavaScript ensures a rich and interactive user experience, while React provides a modular and efficient component-based structure.
 ## Live Link
-[Myportfolio](https://myself-ovi.vercel.app/)
+The live project: [Myportfolio](https://myself-ovi.vercel.app/)
