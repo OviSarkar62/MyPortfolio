@@ -17,6 +17,13 @@ To install and set up MyPortfolio on your local machine, follow these steps:
             
        git clone https://github.com/OviSarkar62/MyPortfolio.git
 
+- Navigate to the project directory:
+
+       cd MyPortfolio
+
+- Install the dependencies:
+
+       npm install react-router-dom react-icons aos animate.css
 
 ## Live Link
 [Myportfolio](https://myself-ovi.vercel.app/)
