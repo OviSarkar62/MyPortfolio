@@ -15,14 +15,14 @@ const projectsdata = [
     },
     {
       title: "Grade Book",
-      image: "/GradeBook.svg",
+      image: "/prooo3.svg",
       description:
         "Grade Book is a MERN Stack web application designed to help teachers and educators manage their students' grades and percentage.",
       link: "https://grade-book-pi.vercel.app/",
     },
     {
       title: "Project-Tracker",
-      image: "/pro-3.svg",
+      image: "/pro-ject.svg",
       description:
         "ProjectTracker is a comprehensive project tracking and management tool that simplifies the process of organizing, and monitoring on projects.",
       link: "https://project-tracker-red.vercel.app/",
