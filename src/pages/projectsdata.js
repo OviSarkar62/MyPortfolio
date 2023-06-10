@@ -14,6 +14,20 @@ const projectsdata = [
       link: "https://appoint-doc.vercel.app/login",
     },
     {
+      title: "Grade Book",
+      image: "/GradeBook.svg",
+      description:
+        "Grade Book is a MERN Stack web application designed to help teachers and educators manage their students' grades and percentage.",
+      link: "https://grade-book-pi.vercel.app/",
+    },
+    {
+      title: "Project-Tracker",
+      image: "/pro-3.svg",
+      description:
+        "ProjectTracker is a comprehensive project tracking and management tool that simplifies the process of organizing, and monitoring on projects.",
+      link: "https://project-tracker-red.vercel.app/",
+    },
+    {
       title: "POSView",
       image: "/POS-vec.svg",
       description:

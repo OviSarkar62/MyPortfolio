@@ -5,7 +5,7 @@ import Header from "../components/Header";
 function About() {
   const handleDownload = () => {
     const link =
-      "https://drive.google.com/file/d/1HJuTtdaaYFZUSjCpAVEFS48jGg0DMIHA/view?usp=share_link";
+      "https://drive.google.com/file/d/1nsvlbc_5H9nQjJZXWCIYSQSrBe2OI31H/view?usp=drive_link";
     window.open(link, "_blank");
   };
 
